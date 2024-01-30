@@ -136,7 +136,7 @@
                             });
 
                         });
-                    });  
+                    }); 
                     
                 }); 
             }
@@ -328,8 +328,8 @@
     });
     $(document).ready(function() {
     var e = '<div class="cmt_floting_customsett">'+
-                '<a href="https://wa.me/+2348087112167" class="tmtheme_fbar_icons"><i class="fa fa-headphones"></i><span>Support</span></a>'+
-                '<a href="mailto:adeagbojosiah1@gmail.com" class="tmtheme_fbar_icons"><i class="themifyicon themifyicon ti-pencil"></i><span>Customization</span></a>'+
+                '<a href="https://wa.me/+2349131008298" class="tmtheme_fbar_icons"><i class="fa fa-headphones"></i><span>Support</span></a>'+
+                '<a href="mailto:example@gmail.com1" class="tmtheme_fbar_icons"><i class="themifyicon themifyicon ti-pencil"></i><span>Customization</span></a>'+
                 '<div class="clearfix"></div>'+
             '</div>';
 
